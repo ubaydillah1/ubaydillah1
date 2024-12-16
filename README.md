@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me with instagram @ubaydillah.p
 - 😄 Pronouns: He
-- ⚡ Fun fact: No fun fact today
+- ⚡ Fun fact: Sleeps better than coding
 
 <!---
 ubaydillah1/ubaydillah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
