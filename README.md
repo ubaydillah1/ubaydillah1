@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning Type Script
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me with instagram @ubaydillah.p
+- 📫 Reach me with instagram @ubaydillah.p
 - 😄 Pronouns: He
 - ⚡ Fun fact: Sleeps better than coding
 
