@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ubay Dillah
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning Type Script
+- 🌱 I’m currently learning Next Js
 - 💞️ I’m looking to collaborate on 
 - 📫 Reach me with instagram @ubaydillah.p
 - 😄 Pronouns: He
