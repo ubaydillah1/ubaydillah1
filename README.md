@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ubay Dillah
 - 👀 I’m interested in web developer and blockchain technology
-- 🌱 I’m currently learning framer-motion and solidity
+- 🌱 I’m currently learning Next Js and docker
 - 📫 Reach me with instagram @ubaydillah.p
 - 😄 Pronouns: He
 - ⚡ Fun fact: Sleeps better than coding
