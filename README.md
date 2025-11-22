@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ubay Dillah
 - 👀 I’m interested in web developer and AI Automation
-- 🌱 I’m currently learning Next Js and docker
-- 📫 Reach me with instagram @ubaydillah.p
+- 🌱 I’m currently learning Devops
+- 📫 Reach me with email ubaydillah1737@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Sleeps better than coding
 
